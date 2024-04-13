@@ -180,6 +180,7 @@ groups:
     categories:
       - Category 2
   - name: CNAI
+    categories:
       - CNAI
 
 # Header (optional)
