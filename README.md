@@ -2,18 +2,24 @@
 
 CNAI landscape generated with [cncf/landscape2](https://github.com/cncf/landscape2).
 
-To contribute:
+View here https://rx-m.github.io/cnai-landscape/?group=cnai
+
+
+# Contribute
+
+To contribute (work only on main branch, do not edit build branch):
 
 * fork
-* modify data.yml (add / edit)
-* add logo (svg only)
+* modify `data.yml` (add / edit) for project entries
+* add project logo in the `logos` directory (svg only)
 * submit PR
 
+Once accepted (manual at the moment) your changes will go live.
+
+
+# Next steps
+
 Once we have enough (tbd) we will submit to become group on main landscape (similar to "Wasm").
-
-View changes here (after Github Action triggers):
-
-https://rx-m.github.io/cnai-landscape/?group=cnai&view-mode=grid
 
 To view WASM on main landscape, go here:
 
