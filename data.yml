@@ -80,7 +80,7 @@ landscape:
         items:
           - item:
             crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
-            description: This is the description of item 9
+            description: This is the description of item 9 (RP)
             homepage_url: https://cncf.io
             logo: cncf.svg
             name: Item 9
