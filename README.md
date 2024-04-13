@@ -1,4 +1,4 @@
-# Sample landscape
+# CNAI Landscape
 
 CNAI landscape generated with [cncf/landscape2](https://github.com/cncf/landscape2).
 
