@@ -179,6 +179,8 @@ groups:
   - name: Only category 2
     categories:
       - Category 2
+  - name: CNAI
+      - CNAI
 
 # Header (optional)
 #
