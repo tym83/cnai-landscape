@@ -21,7 +21,7 @@ Once accepted (manual at the moment) your changes will go live.
 
 Once we have enough (tbd) we will submit to become group on main landscape (similar to "Wasm").
 
-To view WASM on main landscape, go here:
+To view Wasm on main landscape, go here:
 
 https://landscape.cncf.io/
 
