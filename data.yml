@@ -173,6 +173,14 @@ landscape:
           crunchbase:
           unnamed_organization: true
           homepage_url: https://kueue.sigs.k8s.io/
+        - item:
+          name: HAMi
+          description: Heterogeneous AI Computing Virtualization(vGPU)
+          homepage_url: https://github.com/Project-HAMi/HAMi
+          repo_url: https://github.com/Project-HAMi/HAMi
+          logo: ./HAMi.svg
+          crunchbase:
+          unnamed_organization: true
     - subcategory:
       name: ML Serving
       items:
