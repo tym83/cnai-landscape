@@ -35,16 +35,40 @@ We look forward to your support!
 
 ---
 
+# How to build 
+
+* download and install `landscape2` command line tool , refer to https://github.com/cncf/landscape2
+
+* build local landscape with below commands (`build` as output directory)
+    ```
+    cd cnai-landscape
+
+    landscape2 build \
+      --data-file data.yml \
+      --settings-file settings.yml \
+      --guide-file guide.yml \
+      --logos-path logos \
+      --output-dir build
+    ```
+
+* serve the updated landscape website locally
+    ```
+    landscape2 serve --landscape-dir build
+    ```
+
+* use your browser as prompt, it may be like `http://127.0.0.1:8000/cnai-landscape`
+
+
 Below are original instructions to help set this up (by Sergio).
-
-- The `main` branch contains the output of the `landscape2 new` command.
-- The `build` branch contains the output of the `landscape2 build` command, which is served by GitHub Pages at <https://rx-m.github.io/cnai-landscape>.
-- The [build workflow](https://github.com/rx-m/cnai-landscape/blob/main/.github/workflows/build.yml) builds the landscape and pushes the result to the `build` branch on every push to the `main` branch.
-
-Also modified:
-
-```
-# base_path: /<BASE_PATH>
-#
-base_path: /cnai-landscape
-```
+>
+>- The `main` branch contains the output of the `landscape2 new` command.
+>- The `build` branch contains the output of the `landscape2 build` command, which is served by GitHub Pages at <https://rx-m.github.io/cnai-landscape>.
+>- The [build workflow](https://github.com/rx-m/cnai-landscape/blob/main/.github/workflows/build.yml) builds the landscape and pushes the result to the `build` branch on every push to the `main` branch.
+>
+>Also modified:
+>
+>```
+># base_path: /<BASE_PATH>
+>#
+>base_path: /cnai-landscape
+>```
