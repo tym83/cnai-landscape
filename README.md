@@ -65,10 +65,44 @@ Below are original instructions to help set this up (by Sergio).
 >- The `build` branch contains the output of the `landscape2 build` command, which is served by GitHub Pages at <https://rx-m.github.io/cnai-landscape>.
 >- The [build workflow](https://github.com/rx-m/cnai-landscape/blob/main/.github/workflows/build.yml) builds the landscape and pushes the result to the `build` branch on every push to the `main` branch.
 >
->Also modified:
+>Also modified in `settings.yml`:
 >
->```
-># base_path: /<BASE_PATH>
->#
->base_path: /cnai-landscape
->```
+>
+
+```
+> ...
+> 
+> # foundation: <FOUNDATION_NAME>
+> #
+> foundation: CNAI 
+> 
+> ...
+> 
+> # base_path: /<BASE_PATH>
+> #
+> base_path: /cnai-landscape
+> 
+> ...
+> 
+```
+This is to add the CNAI grouping like Wasm on main landscape.
+```
+> # groups:
+> #   - name: <GROUP_NAME>
+> #     categories:
+> #       - <CATEGORY1_NAME>
+> #       - <CATEGORY2_NAME>
+> #
+> groups:
+>   - name: Some categories
+>     categories:
+>       - Category 1
+>       - Category 2
+>   - name: Only category 2
+>     categories:
+>       - Category 2
+>   - name: CNAI
+>     categories:
+>       - CNAI
+>
+```
