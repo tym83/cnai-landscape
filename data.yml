@@ -146,7 +146,7 @@ landscape:
           description: A toolkit to run Ray applications on Kubernetes
           homepage_url: https://github.com/ray-project/kuberay
           repo_url: https://github.com/ray-project/kuberay
-          logo: ./404.svg
+          logo: ./ray_logo.svg
           crunchbase:
           unnamed_organization: true
         - item:
@@ -169,7 +169,7 @@ landscape:
           name: Kueue
           description: 
           repo_url: https://github.com/kubernetes-sigs/kueue 
-          logo: ./404.svg
+          logo: ./kueue.svg
           crunchbase:
           unnamed_organization: true
           homepage_url: https://kueue.sigs.k8s.io/
@@ -188,7 +188,7 @@ landscape:
           name: Kserve
           description: Highly scalable and standards based Model Inference Platform on Kubernetes for Trusted AI
           repo_url: https://github.com/kserve/kserve
-          logo: ./404.svg
+          logo: ./k-serve-color.svg
           crunchbase:
           unnamed_organization: true
           homepage_url: https://kserve.github.io/website/0.11/
@@ -196,7 +196,7 @@ landscape:
           name: Seldon
           description: 
           repo_url: https://github.com/SeldonIO/seldon-core 
-          logo: ./404.svg
+          logo: ./Seldon_idWf-VLClV_10.svg
           crunchbase:
           unnamed_organization: true
           homepage_url: https://www.seldon.io/
@@ -204,7 +204,7 @@ landscape:
           name: vLLM
           description: vLLM is a fast and easy-to-use library for LLM inference and serving.
           repo_url: https://github.com/vllm-project/vllm
-          logo: ./404.svg
+          logo: ./vllm-logo-text-light.svg
           crunchbase:
           unnamed_organization: true
           homepage_url: https://docs.vllm.ai/en/latest/
@@ -231,7 +231,7 @@ landscape:
           name: Mlflow
           description: 
           repo_url: https://github.com/mlflow/mlflow
-          logo: ./404.svg
+          logo: ./mlflow-white.svg
           crunchbase:
           unnamed_organization: true
           homepage_url: https://mlflow.org/
@@ -247,7 +247,7 @@ landscape:
           name: BentoML
           description: Build Production-Grade AI Applications
           repo_url: https://github.com/bentoml/BentoML
-          logo: ./404.svg
+          logo: ./bentoml.svg
           crunchbase:
           unnamed_organization: true
           homepage_url: https://bentoml.com
@@ -282,7 +282,7 @@ landscape:
           name: PyTorch
           description: About Tensors and Dynamic neural networks in Python with strong GPU acceleration
           repo_url: 
-          logo: ./404.svg
+          logo: ./pytorch.svg
           crunchbase:
           unnamed_organization: true
           homepage_url: https://pytorch.org
@@ -290,7 +290,7 @@ landscape:
           name: TensorFlow
           description: An Open Source Machine Learning Framework for Everyone
           repo_url: https://github.com/tensorflow
-          logo: ./404.svg
+          logo: ./tensorflow.svg
           crunchbase:
           unnamed_organization: true
           homepage_url: https://www.tensorflow.org
@@ -640,7 +640,7 @@ landscape:
           unnamed_organization: true
           homepage_url: https://github.com/redis/redis 
         - item:
-          name: Alluxio,
+          name: Alluxio
           description: 
           repo_url: 
           logo: ./404.svg
