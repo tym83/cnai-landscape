@@ -154,14 +154,14 @@ landscape:
           description: A framework for generative AI
           homepage_url: https://docs.nvidia.com/deeplearning/nemo/user-guide/docs/en/stable/index.html
           repo_url: https://github.com/NVIDIA/NeMo
-          logo: ./404.svg
+          logo: ./Nemo.svg
           crunchbase:
           unnamed_organization: true
         - item:
           name: Yunikorn
           description: Unleash the power of resource scheduling for running Batch, Data & ML on Kubernetes!
           repo_url: https://github.com/apache/yunikorn-core/
-          logo: ./404.svg
+          logo: ./yunikorn.svg
           crunchbase:
           unnamed_organization: true
           homepage_url: https://yunikorn.apache.org/ 
@@ -212,7 +212,7 @@ landscape:
           name: text-generation-inference (TGI)
           description: Large Language Model Text Generation Inference
           repo_url: https://github.com/huggingface/text-generation-inference
-          logo: ./404.svg
+          logo: ./huggingface.svg
           crunchbase:
           unnamed_organization: true
           homepage_url: https://huggingface.co/docs/text-generation-inference/index
@@ -223,7 +223,7 @@ landscape:
           name: Kubeflow Pipelines
           description: Machine Learning Pipelines for Kubeflow
           repo_url: https://github.com/kubeflow/pipelines
-          logo: ./404.svg
+          logo: ./kubeflow.svg
           crunchbase:
           unnamed_organization: true
           homepage_url: https://www.kubeflow.org/docs/components/pipelines/v1/introduction/
@@ -239,7 +239,7 @@ landscape:
           name: TensorFlow Extended (TFX)
           description: TFX is an end-to-end platform for deploying production ML pipelines
           repo_url: https://github.com/tensorflow/tfx
-          logo: ./404.svg
+          logo: ./tensorflow.svg
           crunchbase:
           unnamed_organization: true
           homepage_url: https://www.tensorflow.org/tfx
@@ -255,7 +255,7 @@ landscape:
           name: MLRun
           description: Machine Learning automation and tracking
           repo_url: https://github.com/mlrun/mlrun
-          logo: ./404.svg
+          logo: ./mlrun.svg
           crunchbase:
           unnamed_organization: true
           homepage_url: https://www.mlrun.org
@@ -274,7 +274,7 @@ landscape:
           name: Kubeflow Notebooks
           description: Machine Learning Toolkit for Kubernetes
           repo_url: https://github.com/kubeflow/kubeflow
-          logo: ./404.svg
+          logo: ./kubeflow.svg
           crunchbase:
           unnamed_organization: true
           homepage_url: https://www.kubeflow.org/docs/components/notebooks
@@ -298,7 +298,7 @@ landscape:
           name: Apache Zeppelin
           description: Web-based notebook that enables data-driven, interactive data analytics and collaborative documents with SQL, Scala and more.
           repo_url: https://github.com/apache/zeppelin
-          logo: ./404.svg
+          logo: ./apache-zeppelin.svg
           crunchbase:
           unnamed_organization: true
           homepage_url: https://zeppelin.apache.org
@@ -309,7 +309,7 @@ landscape:
           name: Kubeflow Training Operator
           description: Training operators on Kubernetes
           repo_url: https://github.com/kubeflow/training-operator
-          logo: ./404.svg
+          logo: ./kubeflow.svg
           crunchbase:
           unnamed_organization: true
           homepage_url: https://www.kubeflow.org/docs/components/training
@@ -317,7 +317,7 @@ landscape:
           name: Pytorch DistributedDataParallel (DDP)
           description: DistributedDataParallel (DDP) implements data parallelism at the module level which can run across multiple machines.
           repo_url: https://github.com/pytorch/pytorch
-          logo: ./404.svg
+          logo: ./pytorch.svg
           crunchbase:
           unnamed_organization: true
           homepage_url: https://pytorch.org/tutorials/intermediate/ddp_tutorial.html 
@@ -325,7 +325,7 @@ landscape:
           name: Torchx
           description: 
           repo_url: 
-          logo: ./404.svg
+          logo: ./pytorch.svg
           crunchbase:
           unnamed_organization: true
           homepage_url: https://pytorch.org/torchx/latest
@@ -333,7 +333,7 @@ landscape:
           name: Tensorflow Distributed
           description: 
           repo_url: 
-          logo: ./404.svg
+          logo: ./tensorflow.svg
           crunchbase:
           unnamed_organization: true
           homepage_url: https://www.tensorflow.org/guide/distributed_training 
@@ -341,7 +341,7 @@ landscape:
           name: Open MPI
           description: 
           repo_url: 
-          logo: ./404.svg
+          logo: ./Open_MPI_logo.svg
           crunchbase:
           unnamed_organization: true
           homepage_url: https://www-lb.open-mpi.org/  
@@ -349,15 +349,15 @@ landscape:
           name: DeepSpeed
           description: 
           repo_url: 
-          logo: ./404.svg
+          logo: ./deepspeed.svg
           crunchbase:
           unnamed_organization: true
           homepage_url: https://github.com/microsoft/DeepSpeed 
         - item:
-          name: Megatron
+          name: Megatron-LM
           description: 
           repo_url: 
-          logo: ./404.svg
+          logo: ./megatron.svg
           crunchbase:
           unnamed_organization: true
           homepage_url: https://github.com/NVIDIA/Megatron-LM
@@ -365,7 +365,7 @@ landscape:
           name: Horovod
           description: 
           repo_url: 
-          logo: ./404.svg
+          logo: ./horovod.svg
           crunchbase:
           unnamed_organization: true
           homepage_url: https://github.com/horovod/horovod 
@@ -373,7 +373,7 @@ landscape:
           name: Apla
           description: 
           repo_url: 
-          logo: ./404.svg
+          logo: ./alpa-logo-cropped.svg
           crunchbase:
           unnamed_organization: true
           homepage_url: https://github.com/alpa-projects/alpa     
@@ -385,7 +385,7 @@ landscape:
           name: Prometheus
           description: 
           repo_url: 
-          logo: ./404.svg
+          logo: ./prometheus-icon-color.svg
           crunchbase:
           unnamed_organization: true
           homepage_url: https://prometheus.io/ 
@@ -393,7 +393,7 @@ landscape:
           name: Influxdb
           description: 
           repo_url: 
-          logo: ./404.svg
+          logo: ./influxdb.svg
           crunchbase:
           unnamed_organization: true
           homepage_url: https://github.com/influxdata/influxdb
@@ -401,7 +401,7 @@ landscape:
           name: Grafana
           description: 
           repo_url: 
-          logo: ./404.svg
+          logo: ./grafana.svg
           crunchbase:
           unnamed_organization: true
           homepage_url: https://github.com/grafana/grafana
@@ -409,7 +409,7 @@ landscape:
           name: Weight and Biases
           description: 
           repo_url: 
-          logo: ./404.svg
+          logo: ./wandb-logo-yellow-dots-black-wb.svg
           crunchbase:
           unnamed_organization: true
           homepage_url: https://wandb.ai/
@@ -421,7 +421,7 @@ landscape:
           name: Trulens
           description: 
           repo_url: 
-          logo: ./404.svg
+          logo: ./trulens.svg
           crunchbase:
           unnamed_organization: true
           homepage_url: https://www.trulens.org/ 
@@ -429,7 +429,7 @@ landscape:
           name: Langfuse
           description: 
           repo_url: 
-          logo: ./404.svg
+          logo: ./lanfuse.svg
           crunchbase:
           unnamed_organization: true
           homepage_url: https://github.com/langfuse/langfuse
@@ -437,7 +437,7 @@ landscape:
           name: Deepchecks
           description: 
           repo_url: 
-          logo: ./404.svg
+          logo: ./deepchecks_logo.svg
           crunchbase:
           unnamed_organization: true
           homepage_url: https://github.com/deepchecks/deepchecks
@@ -445,7 +445,7 @@ landscape:
           name: OpenLLMetry
           description: 
           repo_url: 
-          logo: ./404.svg
+          logo: ./open-ll-metry.svg
           crunchbase:
           unnamed_organization: true
           homepage_url: https://github.com/traceloop/openllmetry 
@@ -457,7 +457,7 @@ landscape:
           name: Hyperopt
           description: 
           repo_url: 
-          logo: ./404.svg
+          logo: ./hyperopt.svg
           crunchbase:
           unnamed_organization: true
           homepage_url: https://hyperopt.github.io/hyperopt/ 
@@ -465,7 +465,7 @@ landscape:
           name: Optuna
           description: 
           repo_url: 
-          logo: ./404.svg
+          logo: ./optuna.svg
           crunchbase:
           unnamed_organization: true
           homepage_url: https://optuna.org/ 
@@ -473,7 +473,7 @@ landscape:
           name: Kubeflow Katib
           description: 
           repo_url: 
-          logo: ./404.svg
+          logo: ./katib.svg
           crunchbase:
           unnamed_organization: true
           homepage_url: https://www.kubeflow.org/docs/components/katib/overview/ 
@@ -487,7 +487,7 @@ landscape:
           name: Milvus
           description: 
           repo_url: 
-          logo: ./404.svg
+          logo: ./milvus.svg
           crunchbase:
           unnamed_organization: true
           homepage_url: https://milvus.io/ 
@@ -495,15 +495,15 @@ landscape:
           name: Chroma
           description: 
           repo_url: 
-          logo: ./404.svg
+          logo: ./chroma.svg
           crunchbase:
           unnamed_organization: true
-          homepage_url: https://www.trychroma.com/ 
+          homepage_url: https://github.com/chroma-core/chroma
         - item:
           name: Weaviate
           description: 
           repo_url: 
-          logo: ./404.svg
+          logo: ./weaviate-nav-logo-dark.svg
           crunchbase:
           unnamed_organization: true
           homepage_url: https://github.com/weaviate/weaviate
@@ -515,7 +515,7 @@ landscape:
           name: ClickHouse
           description: 
           repo_url: 
-          logo: ./404.svg
+          logo: ./clickhouse.svg
           crunchbase:
           unnamed_organization: true
           homepage_url: https://github.com/ClickHouse/ClickHouse 
@@ -523,7 +523,7 @@ landscape:
           name: Apache Pinot
           description: 
           repo_url: 
-          logo: ./404.svg
+          logo: ./pinot.svg
           crunchbase:
           unnamed_organization: true
           homepage_url: https://pinot.apache.org/ 
@@ -531,7 +531,7 @@ landscape:
           name: Apache Druid
           description: 
           repo_url: 
-          logo: ./404.svg
+          logo: ./apache-druid.svg
           crunchbase:
           unnamed_organization: true
           homepage_url: https://druid.apache.org/ 
@@ -539,7 +539,7 @@ landscape:
           name: Cassandra
           description: 
           repo_url: 
-          logo: ./404.svg
+          logo: ./cassandra.svg
           crunchbase:
           unnamed_organization: true
           homepage_url: https://cassandra.apache.org/ 
@@ -547,7 +547,7 @@ landscape:
           name: ScyllaDB
           description: 
           repo_url: 
-          logo: ./404.svg
+          logo: ./scylla.svg
           crunchbase:
           unnamed_organization: true
           homepage_url: https://github.com/scylladb/scylladb 
@@ -555,7 +555,7 @@ landscape:
           name: Hadoop HDFS
           description: 
           repo_url: 
-          logo: ./404.svg
+          logo: ./hadoop.svg
           crunchbase:
           unnamed_organization: true
           homepage_url: https://hadoop.apache.org/ 
@@ -563,7 +563,7 @@ landscape:
           name: Apache HBase
           description: 
           repo_url: 
-          logo: ./404.svg
+          logo: ./hbase.svg
           crunchbase:
           unnamed_organization: true
           homepage_url: https://hbase.apache.org/ 
@@ -571,7 +571,7 @@ landscape:
           name: Presto
           description: 
           repo_url: 
-          logo: ./404.svg
+          logo: ./presto.svg
           crunchbase:
           unnamed_organization: true
           homepage_url: https://github.com/prestodb/presto 
@@ -579,7 +579,7 @@ landscape:
           name: Trino
           description: 
           repo_url: 
-          logo: ./404.svg
+          logo: ./trino.svg
           crunchbase:
           unnamed_organization: true
           homepage_url: https://trino.io/ 
@@ -587,7 +587,7 @@ landscape:
           name: Apache Spark
           description: 
           repo_url: 
-          logo: ./404.svg
+          logo: ./spark.svg
           crunchbase:
           unnamed_organization: true
           homepage_url: https://spark.apache.org/ 
@@ -595,7 +595,7 @@ landscape:
           name: Apache Flink
           description: 
           repo_url: 
-          logo: ./404.svg
+          logo: ./apache-flink.svg
           crunchbase:
           unnamed_organization: true
           homepage_url: https://flink.apache.org/ 
@@ -603,7 +603,7 @@ landscape:
           name: Kafka
           description: 
           repo_url: 
-          logo: ./404.svg
+          logo: ./apache-kafka.svg
           crunchbase:
           unnamed_organization: true
           homepage_url: https://flink.apache.org/ 
@@ -611,7 +611,7 @@ landscape:
           name: Pulsar
           description: 
           repo_url: 
-          logo: ./404.svg
+          logo: ./pulsar.svg
           crunchbase:
           unnamed_organization: true
           homepage_url: https://pulsar.apache.org/ 
@@ -619,7 +619,7 @@ landscape:
           name: Fluid
           description: 
           repo_url: 
-          logo: ./404.svg
+          logo: ./fluid-icon-color.svg
           crunchbase:
           unnamed_organization: true
           homepage_url: https://fluid-cloudnative.github.io/ 
@@ -627,7 +627,7 @@ landscape:
           name: Memcached
           description: 
           repo_url: 
-          logo: ./404.svg
+          logo: ./memcached.svg
           crunchbase:
           unnamed_organization: true
           homepage_url: https://memcached.org/ 
@@ -635,7 +635,7 @@ landscape:
           name: Redis
           description: 
           repo_url: 
-          logo: ./404.svg
+          logo: ./redis.svg
           crunchbase:
           unnamed_organization: true
           homepage_url: https://github.com/redis/redis 
@@ -643,7 +643,7 @@ landscape:
           name: Alluxio
           description: 
           repo_url: 
-          logo: ./404.svg
+          logo: ./alluxio.svg
           crunchbase:
           unnamed_organization: true
           homepage_url: https://github.com/Alluxio/alluxio
@@ -655,7 +655,7 @@ landscape:
           name: Kyverno
           description: 
           repo_url: 
-          logo: ./404.svg
+          logo: ./kyverno-icon-color.svg
           crunchbase:
           unnamed_organization: true
           homepage_url: https://kyverno.io
@@ -663,7 +663,7 @@ landscape:
           name: OPA/Gatekeeper
           description: 
           repo_url: 
-          logo: ./404.svg
+          logo: ./opa-icon-color.svg
           crunchbase:
           unnamed_organization: true
           homepage_url: https://www.openpolicyagent.org/
@@ -671,7 +671,7 @@ landscape:
           name: Kyverno-JSON
           description: 
           repo_url: 
-          logo: ./404.svg
+          logo: ./kyverno-json-logo.svg
           crunchbase:
           unnamed_organization: true
           homepage_url: https://kyverno.github.io/kyverno-json/latest/ 
@@ -679,7 +679,7 @@ landscape:
           name: Stacklock Minder
           description: 
           repo_url: 
-          logo: ./404.svg
+          logo: ./stacklock.svg
           crunchbase:
           unnamed_organization: true
           homepage_url: https://stacklok.com/minder
