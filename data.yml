@@ -295,6 +295,14 @@ landscape:
           unnamed_organization: true
           homepage_url: https://www.tensorflow.org
         - item:
+          name: XGBoost
+          description: An optimized distributed gradient boosting library for machine learning.
+          repo_url: https://github.com/dmlc/xgboost
+          logo: ./xgboost.svg
+          crunchbase:
+          unnamed_organization: true
+          homepage_url: https://xgboost.readthedocs.io/en/stable/
+        - item:
           name: Apache Zeppelin
           description: Web-based notebook that enables data-driven, interactive data analytics and collaborative documents with SQL, Scala and more.
           repo_url: https://github.com/apache/zeppelin
@@ -376,7 +384,14 @@ landscape:
           logo: ./alpa-logo-cropped.svg
           crunchbase:
           unnamed_organization: true
-          homepage_url: https://github.com/alpa-projects/alpa    
+          homepage_url: https://github.com/alpa-projects/alpa
+        - item:
+          name: Kubeflow MPI Operator
+          description: MPI Operator to manage all-reduce distributed training and HPC workloads.
+          logo: ./kubeflow.svg
+          crunchbase:
+          unnamed_organization: true
+          homepage_url: https://github.com/kubeflow/mpi-operator
 
     - subcategory:
       name: Workload Observability
@@ -592,6 +607,14 @@ landscape:
           unnamed_organization: true
           homepage_url: https://spark.apache.org/
         - item:
+          name: Kubeflow Spark Operator
+          description: Operator to manage Apache Spark applications on Kubernetes.
+          repo_url:
+          logo: ./kubeflow.svg
+          crunchbase:
+          unnamed_organization: true
+          homepage_url: https://github.com/kubeflow/spark-operator
+        - item:
           name: Apache Flink
           description:
           repo_url:
@@ -647,6 +670,21 @@ landscape:
           crunchbase:
           unnamed_organization: true
           homepage_url: https://github.com/Alluxio/alluxio
+        - item:
+          name: Kubeflow Model Registry
+          description: Model Registry to store and manage models, versions, and artifacts metadata.
+          logo: ./kubeflow.svg
+          crunchbase:
+          unnamed_organization: true
+          homepage_url: https://github.com/kubeflow/model-registry
+        - item:
+          name: FEAST
+          description: Feature Store to manage machine learning features.
+          repo_url: https://github.com/feast-dev/feast
+          logo: ./feast.svg
+          crunchbase:
+          unnamed_organization: true
+          homepage_url: https://feast.dev/
 
     - subcategory:
       name: Governance, Policy & Security
