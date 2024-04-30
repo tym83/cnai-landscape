@@ -442,7 +442,7 @@ landscape:
           homepage_url: https://www.trulens.org/
         - item:
           name: Langfuse
-          description: "Open source LLM engineering platform: Observability, metrics, evals, prompt management, playground, datasets."
+          description: Open source LLM engineering platform - Observability, metrics, evals, prompt management, playground, datasets.
           repo_url: https://github.com/langfuse/langfuse
           logo: ./lanfuse.svg
           crunchbase:
