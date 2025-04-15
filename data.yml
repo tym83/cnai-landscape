@@ -183,7 +183,7 @@ landscape:
           unnamed_organization: true
         - item:
           name: Cozystack
-          description: Cozystack is a free platform-as-a-service and framework for building clouds with GPU support in KubeVirt-based VM's.
+          description: Cozystack is a free PaaS and framework for building clouds with GPU support in KubeVirt-based VM's.
           homepage_url: https://cozystack.io
           project: sandbox
           repo_url: https://github.com/cozystack/cozystack
