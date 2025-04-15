@@ -181,6 +181,21 @@ landscape:
           logo: ./HAMi.svg
           crunchbase:
           unnamed_organization: true
+        - item:
+          name: Cozystack
+          description: Cozystack is a free platform-as-a-service and framework for building clouds with GPU support in KubeVirt-based VM's.
+          homepage_url: https://cozystack.io
+          project: sandbox
+          repo_url: https://github.com/cozystack/cozystack
+          logo: cozystack.svg
+          crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
+          allow_duplicate_repo: true
+          extra:
+            accepted: '2025-02-25'
+            cncf_tags:
+              - https://github.com/cncf/tag-app-delivery
+            dev_stats_url: https://cozystack.devstats.cncf.io
+            youtube_url: https://www.youtube.com/@cozystack  
     - subcategory:
       name: ML Serving
       items:
